@@ -55,7 +55,7 @@ download-organizer.py
 
 ## Customization
 
-- Change file type mappings by editing the dictionary in the script.
+- Change file type mappings by editing the dictionary in the script
 - Set a different target folder by modifying the `DOWNLOADS_PATH` variable.
 
 ## License
